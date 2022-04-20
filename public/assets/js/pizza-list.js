@@ -1,5 +1,3 @@
-
-
 const $pizzaList = document.querySelector('#pizza-list');
 
 const getPizzaList = () => {
